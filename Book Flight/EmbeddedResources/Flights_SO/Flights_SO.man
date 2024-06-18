@@ -4,8 +4,8 @@
   <Name>Flights_SO</Name>
   <Type>WSDL</Type>
   <Version>1</Version>
-  <CreationDate>2020-11-10T13:29:00.0379502-06:00</CreationDate>
-  <UpdateDate>2020-11-10T13:29:00.0379502-06:00</UpdateDate>
+  <CreationDate>2020-11-10T19:29:00.0379502+00:00</CreationDate>
+  <UpdateDate>2020-11-10T19:29:00.0379502+00:00</UpdateDate>
   <LoaderID>SignatureResourceHandler</LoaderID>
   <MetaDataSignatureFile>345dd049-5874-4b62-bf93-1d27e01d6c07.xml</MetaDataSignatureFile>
   <TestResourceId>345dd049-5874-4b62-bf93-1d27e01d6c07</TestResourceId>
@@ -18,7 +18,7 @@
         <string>RepositoryPath</string>
       </Key>
       <Value>
-        <string>C:\Users\demo\Documents\Unified Functional Testing\uftone-flights-api-for-340\Book Flight\EmbeddedResources</string>
+        <string>C:\Users\demo\Documents\UFT One\DevOps Container\uft-one-flights-api-for-340\Book Flight\EmbeddedResources</string>
       </Value>
     </Item>
     <Item>
@@ -26,7 +26,7 @@
         <string>ResourceOrigin</string>
       </Key>
       <Value>
-        <string>C:\Users\demo\Documents\Unified Functional Testing\uftone-flights-api-for-340\Book Flight\EmbeddedResources\Flights_SO</string>
+        <string>C:\Users\demo\Documents\UFT One\DevOps Container\uft-one-flights-api-for-340\Book Flight\EmbeddedResources\Flights_SO</string>
       </Value>
     </Item>
     <Item>
